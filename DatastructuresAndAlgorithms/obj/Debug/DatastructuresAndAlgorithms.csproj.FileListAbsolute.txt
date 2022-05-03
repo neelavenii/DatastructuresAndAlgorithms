@@ -1,0 +1,8 @@
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\bin\Debug\DatastructuresAndAlgorithms.exe.config
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\bin\Debug\DatastructuresAndAlgorithms.exe
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\bin\Debug\DatastructuresAndAlgorithms.pdb
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\obj\Debug\DatastructuresAndAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\obj\Debug\DatastructuresAndAlgorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\obj\Debug\DatastructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\obj\Debug\DatastructuresAndAlgorithms.exe
+C:\Users\Eswar\source\repos\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\obj\Debug\DatastructuresAndAlgorithms.pdb
